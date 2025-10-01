@@ -1,2 +1,3 @@
 # CODING-SAMURAI-INTERNSHIP-TASK-
-Analyze a small dataset (e.g., sales data of a retail store). Focus on basic descriptive statistics and creating visualizations like bar charts and pie charts. Build a linear regression model using a simple dataset (e.g., predicting sales based on advertising spend).
+Project 1&2 ( Task1.ipynb):Analyze a small dataset (e.g., sales data of a retail store). Focus on basic descriptive statistics and creating visualizations like bar charts and pie charts. Build a linear regression model using a simple dataset (e.g., predicting sales based on advertising spend).
+Project 3 & 4 :Perform EDA on the Titanic dataset, examining missing values, distribution of data, and relationships between features. Use basic visualizations like histograms and correlation heatmaps.Build a logistic regression model to predict survival on the Titanic based on passenger features like age, sex, and class.
