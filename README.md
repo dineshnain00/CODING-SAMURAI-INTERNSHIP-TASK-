@@ -22,7 +22,16 @@ Skills: Data wrangling, data visualization (Seaborn, Matplotlib), and a basic un
 
 Project : Classification - Logistic Regression on the Titanic Dataset
 Description: The project requires building a logistic regression model to predict survival on the Titanic using passenger features such as age, sex, and class.  
-Skills: Classification techniques, model evaluation, and feature engineering using Python and Scikit-learn.  
+Skills: Classification techniques, model evaluation, and feature engineering using Python and Scikit-learn. 
+
+
+Project 5: Time Series Forecasting for Stock Prices
+Description: This project focuses on using historical stock prices to create a time series forecasting model, such as ARIMA or LSTM, to predict future prices.  
+Skills: Time series analysis, ARIMA, LSTM models, and evaluation of forecast accuracy.  
+
+Project 6: Sentiment Analysis on Social Media Data
+Description: This project involves collecting social media data (e.g., tweets) and performing sentiment analysis to determine if the sentiment is positive, negative, or neutral.  
+Skills: Natural Language Processing (NLP), sentiment analysis using libraries like NLTK or TextBlob, and data cleaning
 
 Tools and Technologies
 JupyterLite,
@@ -32,4 +41,5 @@ Pandas , Numpy ,
 Scikit-learn,
 Seaborn,
 Matplotlib,
-NLTK.
+NLTK ,textblob.
+
